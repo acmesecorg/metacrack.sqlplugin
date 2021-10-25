@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N//Yzyicbvk7PvXlcz85e59qDrXaDjn44ih+aHDXLFyJXi+ICf0GDv/LYrIHmWq8NMzRFVBWSpFnAWIZGyG9qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\James\\Documents\\GitHub\\Metacrack.SqlPlugin\\Metacrack.SqlPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\James\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",
+    "C:\\Users\\James\\.nuget\\packages\\microsoft.sqlserver.transactsql.scriptdom\\150.4897.1\\microsoft.sqlserver.transactsql.scriptdom.150.4897.1.nupkg.sha512"
+  ],
+  "logs": []
+}

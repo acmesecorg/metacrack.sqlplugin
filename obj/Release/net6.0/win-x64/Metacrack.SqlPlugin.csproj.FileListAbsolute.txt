@@ -1,0 +1,15 @@
+C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\obj\Release\net6.0\win-x64\Metacrack.SqlPlugin.GlobalUsings.g.cs
+C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\obj\Release\net6.0\win-x64\Metacrack.SqlPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\obj\Release\net6.0\win-x64\Metacrack.SqlPlugin.AssemblyInfoInputs.cache
+C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\obj\Release\net6.0\win-x64\Metacrack.SqlPlugin.AssemblyInfo.cs
+C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\obj\Release\net6.0\win-x64\Metacrack.SqlPlugin.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\obj\Release\net6.0\win-x64\Metacrack.SqlPlugin.dll
+C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\obj\Release\net6.0\win-x64\ref\Metacrack.SqlPlugin.dll
+C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\obj\Release\net6.0\win-x64\Metacrack.SqlPlugin.pdb
+C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\bin\Release\net6.0\win-x64\Metacrack.SqlPlugin.deps.json
+C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\bin\Release\net6.0\win-x64\Metacrack.SqlPlugin.runtimeconfig.json
+C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\bin\Release\net6.0\win-x64\Metacrack.SqlPlugin.dll
+C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\bin\Release\net6.0\win-x64\ref\Metacrack.SqlPlugin.dll
+C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\bin\Release\net6.0\win-x64\Metacrack.SqlPlugin.pdb
+C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\bin\Release\net6.0\win-x64\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\obj\Release\net6.0\win-x64\Metacrack.SqlPlugin.genruntimeconfig.cache

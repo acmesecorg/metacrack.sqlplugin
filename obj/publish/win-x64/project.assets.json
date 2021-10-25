@@ -1,0 +1,197 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CommandLineParser/2.8.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/CommandLine.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/_._": {}
+        }
+      },
+      "Microsoft.SqlServer.TransactSql.ScriptDom/150.4897.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.SqlServer.TransactSql.ScriptDom.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.SqlServer.TransactSql.ScriptDom.dll": {}
+        }
+      },
+      "meta/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CommandLineParser": "2.8.0"
+        },
+        "compile": {
+          "bin/placeholder/meta.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_._": {}
+        }
+      }
+    },
+    "net6.0/win-x64": {
+      "CommandLineParser/2.8.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/CommandLine.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/_._": {}
+        }
+      },
+      "Microsoft.SqlServer.TransactSql.ScriptDom/150.4897.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.SqlServer.TransactSql.ScriptDom.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.SqlServer.TransactSql.ScriptDom.dll": {}
+        }
+      },
+      "meta/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CommandLineParser": "2.8.0"
+        },
+        "compile": {
+          "bin/placeholder/meta.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CommandLineParser/2.8.0": {
+      "sha512": "eco2HlKQBY4Joz9odHigzGpVzv6pjsXnY5lziioMveQxr+i2Z7xYcIOMeZTgYiqnMtMAbXMXsVhrNfWO5vJS8Q==",
+      "type": "package",
+      "path": "commandlineparser/2.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CommandLine20.png",
+        "License.md",
+        "README.md",
+        "commandlineparser.2.8.0.nupkg.sha512",
+        "commandlineparser.nuspec",
+        "lib/net40/CommandLine.dll",
+        "lib/net40/CommandLine.xml",
+        "lib/net45/CommandLine.dll",
+        "lib/net45/CommandLine.xml",
+        "lib/net461/CommandLine.dll",
+        "lib/net461/CommandLine.xml",
+        "lib/netstandard2.0/CommandLine.dll",
+        "lib/netstandard2.0/CommandLine.xml"
+      ]
+    },
+    "Microsoft.SqlServer.TransactSql.ScriptDom/150.4897.1": {
+      "sha512": "ksYyHU+XS6VOR9d6XFaQwNFBbkR3yl1Q5zP48uzdh4OZgP4pVCAsoaeQsZQKdpnYozRTM13X601sA39MER4J/g==",
+      "type": "package",
+      "path": "microsoft.sqlserver.transactsql.scriptdom/150.4897.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net46/Microsoft.SqlServer.TransactSql.ScriptDom.dll",
+        "lib/netstandard2.0/Microsoft.SqlServer.TransactSql.ScriptDom.dll",
+        "microsoft.sqlserver.transactsql.scriptdom.150.4897.1.nupkg.sha512",
+        "microsoft.sqlserver.transactsql.scriptdom.nuspec"
+      ]
+    },
+    "meta/1.0.0": {
+      "type": "project",
+      "path": "../Metacrack/Metacrack.csproj",
+      "msbuildProject": "../Metacrack/Metacrack.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Microsoft.SqlServer.TransactSql.ScriptDom >= 150.4897.1",
+      "meta >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\James\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\James\\Documents\\GitHub\\Metacrack.SqlPlugin\\Metacrack.SqlPlugin.csproj",
+      "projectName": "Metacrack.SqlPlugin",
+      "projectPath": "C:\\Users\\James\\Documents\\GitHub\\Metacrack.SqlPlugin\\Metacrack.SqlPlugin.csproj",
+      "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\James\\Documents\\GitHub\\Metacrack.SqlPlugin\\obj\\publish\\win-x64\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\James\\Documents\\GitHub\\Metacrack\\Metacrack.csproj": {
+              "projectPath": "C:\\Users\\James\\Documents\\GitHub\\Metacrack\\Metacrack.csproj",
+              "excludeAssets": "runtime"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.SqlServer.TransactSql.ScriptDom": {
+            "target": "Package",
+            "version": "[150.4897.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
+      }
+    }
+  }
+}

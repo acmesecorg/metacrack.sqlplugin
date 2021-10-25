@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Metacrack.SqlPlugin</id>
+    <version>1.0.0</version>
+    <authors>Metacrack.SqlPlugin</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="meta" version="1.0.0" exclude="Runtime,Build,Analyzers" />
+        <dependency id="Microsoft.SqlServer.TransactSql.ScriptDom" version="150.4897.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\bin\Release\net6.0\win-x64\Metacrack.SqlPlugin.runtimeconfig.json" target="lib\net6.0\Metacrack.SqlPlugin.runtimeconfig.json" />
+    <file src="C:\Users\James\Documents\GitHub\Metacrack.SqlPlugin\bin\Release\net6.0\win-x64\Metacrack.SqlPlugin.dll" target="lib\net6.0\Metacrack.SqlPlugin.dll" />
+  </files>
+</package>
