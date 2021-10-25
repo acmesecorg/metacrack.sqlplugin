@@ -4,5 +4,6 @@ bin\
 packages\
 *.v1
 .vs\
-debug\
-release\
+*debug\
+*release\
+
