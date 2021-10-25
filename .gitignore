@@ -1,5 +1,6 @@
-
-*.dll
-bin\
-obj\
-*.nupkg
+*.suo
+obj/
+bin/
+packages/
+*.v1
+.vs/
