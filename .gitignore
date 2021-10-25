@@ -1,8 +1,8 @@
 *.suo
-obj/
-bin/
-packages/
+obj\
+bin\
+packages\
 *.v1
-.vs/
-debug/
-release/
+.vs\
+debug\
+release\
